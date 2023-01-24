@@ -5,7 +5,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 813-7649-0773'],
-  ['6281275274328', 'rtc kawaii', true],
+  ['6281275274328','asep', true],
   ['+62 812 7527 4328', 'Bot', true],
   ['+62 813 7649 0773', 'Johannes', true],
   ['+62 813-7649-0773', 'Krisna', true],
@@ -77,7 +77,7 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 global.nomorbot = '6281275274328'
 global.nomorown = '6281376490773'
 global.namebot = 'Sad-Bot'
-global.nameown = 'rtc-kawaii'
+global.nameown = 'yusril dark'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
